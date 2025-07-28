@@ -30,7 +30,7 @@ If you're interested in **enhanced, robust, and scalable versions** of this soft
 You can open the `.ipynb` file directly in [Google Colab](https://colab.research.google.com/) from this repo.
 
 ### 2. Add Your Credentials
-Create a `config.json` file with the following format:
+Configure reddit-praw credentials
 
 ```json
 {
@@ -44,7 +44,13 @@ Create a `config.json` file with the following format:
   }
 }
 ```
+Configure Gemini-api credentials 
 
+```json
+gemini_api = {
+  "api_key": "YOUR_GEMINI_API_KEY"
+}
+```
 You can upload it in Colab using the upload widget or mount Google Drive.
 
 ### 3. Run the Notebook
