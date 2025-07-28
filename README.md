@@ -12,17 +12,6 @@ If you're interested in **enhanced, robust, and scalable versions** of this soft
 
 ---
 
-## 📂 Project Structure
-
-```
-📁 reddit-bot-gemini/
-├── BotCore.ipynb          # Main Colab notebook
-├── config.json            # Contains API credentials
-├── comments_log.jsonl     # (Optional) Log for commented posts
-└── README.md              # This file
-```
-
----
 
 ## 🚀 Features
 
