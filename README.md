@@ -39,19 +39,16 @@ Configure reddit-praw credentials
   "reddit_username": "YOUR_USERNAME",
   "reddit_password": "YOUR_PASSWORD",
   "user_agent": "your-bot-name",
-  "gemini_api": {
-    "api_key": "YOUR_GEMINI_API_KEY"
-  }
 }
 ```
 Configure Gemini-api credentials 
 
 ```json
-gemini_api = {
+{
   "api_key": "YOUR_GEMINI_API_KEY"
 }
 ```
-You can upload it in Colab using the upload widget or mount Google Drive.
+You can upload it in Colab using the upload widget or mount Google Drive. Dont worry , the ipynb file can guide too if you feel stuck .
 
 ### 3. Run the Notebook
 Click "Runtime > Run all". The bot will:
