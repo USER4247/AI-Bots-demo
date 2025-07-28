@@ -20,6 +20,7 @@ If you're interested in **enhanced, robust, and scalable versions** of this soft
 - ⚡ Runs inside Colab—no installation or local setup needed
 - 🔁 Can loop continuously or run once per execution
 - 📝 Easily tweak prompt to change tone or behavior
+- 💾 Stores comments and relevant data to local SQLite database 
 
 ---
 
